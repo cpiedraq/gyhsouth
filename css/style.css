@@ -3572,7 +3572,7 @@ nav-link:hover{
     position: relative;
 }
 
-.slick-list
+.slick-list-special
 {
   display: flex;
   flex-direction: row;
